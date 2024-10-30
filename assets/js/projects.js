@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'Korean_society_of_cognitive_rehabilitation.jpg',
+            image: 'Korean.jpg',
             link: 'http://cogsociety.org/journal/thesis.asp',
             title: 'Effects of Remote Hand Coordination Training Intervention for Children with Developmental Disabilities: Single Case Study',
             technologies: ['Hand coordination', 'Rehabilitation for motor development', 'Telehealth'],
@@ -51,7 +51,7 @@ let render_projects = (slug) => {
             categories: ['Published papers']
         },
         {
-            image: 'assets/images/Korean_society_of_cognitive_rehabilitation.jpg',
+            image: 'assets/images/Korean.jpg',
             link: 'http://cogsociety.org/journal/thesis.asp',
             title: 'A Systematic Review of Tablet based Evaluation for Visual Perception',
             technologies: ['Tablet-based', 'Visual perception', ' Systematic review'],
