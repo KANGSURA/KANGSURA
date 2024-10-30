@@ -1,21 +1,21 @@
-title: KANG SURA
-description: Occupational Therapist
-site_title: 'KANG SURA'
+title: Abhishek Nagekar
+description: Web & Security Engineer
+site_title: '@abhn - Abhishek Nagekar'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: KANGSURA
-blog_url: KANGSURA
-email: surakang7410@gmail.com
-keybase_username: KANGSURA
-twitter_username: KANGSURA
-reddit_username: KANGSURA
+github_username: abhn
+blog_url: https://www.nagekar.com
+email: abhishek@nagekar.com
+keybase_username: abhn
+twitter_username: abhn_
+reddit_username: abhn
 
-# absolute or relative1
-profile_picture: assets/images/profile_image.jpg
+# absolute or relative
+profile_picture: assets/images/pp.jpg
 
 # Google Analytics ID
 google_analytics: 
