@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'not.jpg',
+            image: 'Korean_society_of_cognitive_rehabilitation.jpg',
             link: 'http://cogsociety.org/journal/thesis.asp',
             title: 'Effects of Remote Hand Coordination Training Intervention for Children with Developmental Disabilities: Single Case Study',
             technologies: ['Application', 'Developmental disabilities', 'Hand coordination', 'Rehabilitation for motor development', 'Telehealth'],
