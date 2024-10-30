@@ -35,121 +35,68 @@ let render_projects = (slug) => {
             categories: ['Published papers']
         },
         {
-            image: 'assets/images/mpw.jpg',
-            link: 'https://github.com/abhn/mpw',
-            title: 'Master Password',
-            demo: 'https://www.nagekar.com/mpw',
-            technologies: ['Semantic UI', 'CSS3'],
-            description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
-            categories: ['featured', 'security']
+            image: 'assets/images/The_Korean_Society_of_Occupational_Therapy.png',
+            link: 'https://scholar.kyobobook.co.kr/article/external/detail/38424/4050067650065',
+            title: 'Development of a Online Cognitive-motor Dual Task Program for Dementia Prevention in Community-Dwelling Older Adults: A Delphi Study ',
+            technologies: ['Dementia prevention program', 'Cognitive-motor intervention program', 'Dual task program'],
+            description: "This study applied the Delphi method to develop a non-face-to-face cognitive-motor intervention program for the prevention of dementia in healthy community-dwelling older adults.",
+            categories: ['Published papers']
         },
         {
-            image: 'assets/images/social-share-count.jpeg',
-            link: 'https://github.com/abhn/Social-Share-Counts',
-            title: 'Social Share Count',
-            demo: false,
-            technologies: ['Python'],
-            description: "Ever wondered how many times a URL has been shared on popular social networks?",
-            categories: ['native']
+            image: 'assets/images/The_Korean_Society_of_Occupational_Therapy.png',
+            link: 'https://scholar.kyobobook.co.kr/article/external/detail/38424/4050067650238',
+            title: 'A Study on Correlation of Types of Performance Error and Working Memory and Execution Function in the Virtual Reality Based Kitchen Task in the Elderly',
+            technologies: ['Executive function', 'Kitchen task', 'VR', 'Performance error', 'Working memory'],
+            description: "The aim of this study is to investigate the correlation between the types of performance errors and cognitive function when conducting virtual reality (VR) based kitchen tasks.",
+            categories: ['Published papers']
         },
         {
-            image: 'assets/images/data-destroyer.png',
-            link: 'https://github.com/abhn/data-destroyer-gui',
-            title: 'Data Destroyer',
-            demo: false,
-            technologies: ['C++', 'Qt'],
-            description: "Native GUI wrapper for GNU coreutils tool 'dd'",
-            categories: ['native']
+            image: 'assets/images/Korean_society_of_cognitive_rehabilitation.jpg',
+            link: 'http://cogsociety.org/journal/thesis.asp',
+            title: 'A Systematic Review of Tablet based Evaluation for Visual Perception',
+            technologies: ['Tablet-based', 'Visual perception', ' Systematic review'],
+            description: "This study systematically reviewed the latest research trends on tabletbased visual perception assessment tools to provide the basis for development of tablet-based evaluation.",
+            categories: ['Published papers']
         },
         {
-            image: 'assets/images/raspberry-pi-monitor.png',
-            link: 'https://github.com/abhn/RPi-Status-Monitor',
-            title: 'Raspberry Pi Monitor',
-            demo: false,
-            technologies: ['python', 'flask'],
-            description: "Web based status monitor/smart mirror, displays system stats, weather and more.",
-            categories: ['webdev', 'diy']
+            image: 'assets/images/The_Korean_Society_of_Occupational_Therapy.png',
+            link: 'https://scholar.kyobobook.co.kr/article/external/detail/38424/4050067761855',
+            title: 'A Systematic Review of Occupational Therapy Interventions for Alleviating Challenging Behavior in People With Developmental Disabilities',
+            technologies: ['Autism', 'Challenging behavior', 'Systematic review'],
+            description: "This study aimed to find the effects of occupational therapy (OT) as a way to alleviate challenging behaviors for persons with developmental disabilities.",
+            categories: ['Published papers']
         },
         {
-            image: 'assets/images/s3scan.png',
-            link: 'https://github.com/abhn/S3Scan',
-            title: 'S3Scan',
-            demo: false,
-            technologies: ['python'],
-            description: "Automate crawling of a website and find publicly open S3 buckets for takeover.",
-            categories: ['native', 'security']
+            image: 'assets/images/The_Korean_Society_of_Occupational_Therapy.png',
+            link: 'https://scholar.kyobobook.co.kr/article/external/detail/38424/4050067650373',
+            title: 'Item-Level Psychometrics of the Cognitive Impairment Screening Test(CIST)',
+            technologies: ['Assessment tool', 'Cognitive assessment', 'Validity'],
+            description: "This study aims to investigate the reliability and validity of Cognitive Impairment Screening(CIST).",
+            categories: ['Published papers']
         },
         {
-            image: 'assets/images/elementary.png',
-            link: 'https://github.com/abhn/Elementary',
-            title: 'Elementary',
-            demo: 'https://elementary-jekyll.github.io/',
-            technologies: ['Jekyll', 'CSS3'],
-            description: "Elementary is a zero Javascript and minimal CSS ultra lightweight Jekyll theme for those of you who love simplicity.",
-            categories: ['webdev']
+            image: 'assets/images/plos_one.png',
+            link: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306907',
+            title: 'The association between self-rated health, number of family members, and cognitive function in community-dwelling older adults: Mediating role of depression',
+            technologies: ['CIST', 'PHQ-9', 'Older adult'],
+            description: "Our study aimed to investigate research hypotheses, including 1) self-rated health is associated with the cognitive function through depression, 2) the number of family members is associated with cognitive function through depression, and 3) the depression is associated with cognitive function.",
+            categories: ['Published papers']
         },
         {
-            image: 'assets/images/soot-spirits.png',
-            link: 'https://github.com/abhn/Soot-Spirits',
-            title: 'Soot Spirits',
-            demo: 'https://sootspirits.github.io',
-            technologies: ['Jekyll', 'CSS3'],
-            description: "A simple responsive two column Jekyll theme. Great for personal blog and basic portfolio website.",
-            categories: ['webdev']
+            image: 'assets/images/MDPI.png',
+            link: 'https://www.mdpi.com/2227-9067/11/11/1291',
+            title: 'Clinical Utility of Virtual Kitchen Errand Task for Children (VKET-C) as a Functional Cognition Evaluation for Children with Developmental Disabilities',
+            technologies: ['Children', 'Functional cognition', 'VR Kitchen'],
+            description: "This study aimed to apply a VR-based kitchen errand task to TD children and children with DDs and analyze the performance errors observed during the kitchen errand task.",
+            categories: ['Published papers']
         },
         {
-            image: 'assets/images/python-chat.png',
-            link: 'https://www.nagekar.com/2014/12/lan-group-messenger-in-python.html',
-            title: 'Terminal Group Chat',
-            demo: false,
-            technologies: ['Python', 'Sockets'],
-            description: "Simple terminal group chat based on native sockets using Python.",
-            categories: ['native']
-        },
-        {
-            image: 'assets/images/old-lcd.jpg',
-            link: 'https://www.nagekar.com/2018/05/reusing-old-laptop-lcd-panel.html',
-            title: 'Reusing Old LCD Panel',
-            demo: false,
-            technologies: ['DIY'],
-            description: "Reusing a dead laptop's LCD panel as a secondary monitor.",
-            categories: ['diy']
-        },
-        {
-            image: 'assets/images/nextcloud-enc.png',
-            link: 'https://www.nagekar.com/2017/08/private-cloud-part-2.html',
-            title: 'Encrypted Self-Hosted Cloud',
-            demo: false,
-            technologies: ['NextCloud', 'GnuPG'],
-            description: "Self hosted encrypted cloud setup with Nextcloud and GnuPG.",
-            categories: ['diy', 'security']
-        },
-        {
-            image: 'assets/images/google-cloud-backup.png',
-            link: 'https://www.nagekar.com/2018/05/encrypted-backup-with-duplicity.html',
-            title: 'Encrypted Backups - Google Cloud',
-            demo: false,
-            technologies: ['NextCloud', 'Duplicity'],
-            description: "Create automated encrypted incremental backups of data. Sync everything securely to Google Cloud.",
-            categories: ['diy', 'security']
-        },
-        {
-            image: 'assets/images/pi-cloud.jpg',
-            link: 'https://www.nagekar.com/2016/01/how-to-private-local-cloud-using-raspberrypi.html',
-            title: 'Local Cloud - Raspberry Pi',
-            demo: false,
-            technologies: ['FTP', 'DIY'],
-            description: "Host a local cloud server with a Raspberry Pi and a spare hard disk. Access data instantaneously on any device on the network.",
-            categories: ['diy']
-        },
-        {
-            image: 'assets/images/koalamate.png',
-            link: 'https://github.com/abhn/koalamate',
-            title: 'Koalamate',
-            demo: false,
-            technologies: ['Electron', 'Javascript'],
-            description: "A cross-platform desktop application that serves as a Wolfram Alpha query place and notes taker.",
-            categories: ['native']
+            image: 'assets/images/dongguk.png',
+            link: 'https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=741252235b20dabfffe0bdc3ef48d419',
+            title: 'Developing a deep learning model for automated scoring of digital base TMVS-R(Test of Visual-Motor Skills-Revised)',
+            technologies: ['Visual perception assessment', 'Automated scoring', 'Deep learning'],
+            description: "This study aimed to explore the possibility of automatic scoring of TVMS-R by applying transfer learning to a deep learning model based on tablet-based TVMS-R collected data to a CNN-based ResNet-18 model pre-trained on IMAGENET data.",
+            categories: ['Published papers']
         },
     ]
 
