@@ -35,7 +35,7 @@ let render_projects = (slug) => {
             categories: ['Published papers']
         },
         {
-            image: 'assets/images/The_Korean_Society_of_Occupational_Therapy.png',
+            image: 'assets/images/KOT.png',
             link: 'https://scholar.kyobobook.co.kr/article/external/detail/38424/4050067650065',
             title: 'Development of a Online Cognitive-motor Dual Task Program for Dementia Prevention in Community-Dwelling Older Adults: A Delphi Study ',
             technologies: ['Dementia prevention program', 'Cognitive-motor intervention program', 'Dual task program'],
@@ -43,7 +43,7 @@ let render_projects = (slug) => {
             categories: ['Published papers']
         },
         {
-            image: 'assets/images/The_Korean_Society_of_Occupational_Therapy.png',
+            image: 'assets/images/KOT.png',
             link: 'https://scholar.kyobobook.co.kr/article/external/detail/38424/4050067650238',
             title: 'A Study on Correlation of Types of Performance Error and Working Memory and Execution Function in the Virtual Reality Based Kitchen Task in the Elderly',
             technologies: ['Executive function', 'Kitchen task', 'VR', 'Performance error', 'Working memory'],
@@ -59,7 +59,7 @@ let render_projects = (slug) => {
             categories: ['Published papers']
         },
         {
-            image: 'assets/images/The_Korean_Society_of_Occupational_Therapy.png',
+            image: 'assets/images/KOT.png',
             link: 'https://scholar.kyobobook.co.kr/article/external/detail/38424/4050067761855',
             title: 'A Systematic Review of Occupational Therapy Interventions for Alleviating Challenging Behavior in People With Developmental Disabilities',
             technologies: ['Autism', 'Challenging behavior', 'Systematic review'],
