@@ -11,13 +11,13 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/mentors.jpg',
-            link: 'https://github.com/abhn/Mporter',
-            title: 'Mporter',
+            image: 'assets/images/Remote_Hand_coordination.jpg',
+            link: 'http://cogsociety.org/journal/thesis.asp',
+            title: 'Effects of Remote Hand Coordination Training Intervention for Children with Developmental Disabilities: Single Case Study',
             demo: 'https://mporter.co',
-            technologies: ['Flask', 'Celery', 'Python'],
-            description: "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
-            categories: ['featured', 'webdev']
+            technologies: ['Application', 'Developmental disabilities', 'Hand coordination', 'Rehabilitation for motor development', 'Telehealth'],
+            description: "This study aimed to find out the effect of remote intervention using a hand function training application on the hand coordination skills of children with developmental disabilities. ",
+            categories: ['Published papers']
         },
         {
             image: 'assets/images/mobile-landscape.jpg',
