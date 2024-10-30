@@ -19,22 +19,20 @@ let render_projects = (slug) => {
             categories: ['Published papers']
         },
         {
-            image: 'assets/images/mobile-landscape.jpg',
-            link: 'https://github.com/abhn/Wall-E',
-            title: 'Wall-E',
-            demo: 'http://wall-e-jekyll.github.io/',
-            technologies: ['Semantic UI', 'Jekyll'],
-            description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
-            categories: ['featured', 'webdev']
+            image: 'assets/images/Special Education Research Institute.jpg',
+            link: 'https://cms.dankook.ac.kr/web/dkseri/-15?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_sKeyType=title&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_sKeyword=%EB%B0%9C%EB%8B%AC%EC%84%B1%ED%98%91%EC%9D%91%EC%9E%A5%EC%95%A0&_Bbs_WAR_bbsportlet_messageId=765365',
+            title: 'A Systematic Review of the Effects of Handwriting Interventions in Children with Developmental Coordination Disorder',
+            technologies: ['DCD', 'Handwriting', 'Systematic review'],
+            description: "The purpose of this study was to review the literature on the effects of handwriting interventions inchildren with developmental coordination disorder (DCD) and investigate the interventions‘ effectiveness.",
+            categories: ['Published papers']
         },
         {
-            image: 'assets/images/collage.jpg',
-            link: 'https://github.com/abhn/Marvel',
-            title: 'Marvel',
-            demo: false,
-            technologies: ['Android', 'OpenCV'],
-            description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
-            categories: ['featured', 'native']
+            image: 'assets/images/frontiers.jpg',
+            link: 'https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2022.963303/full',
+            title: 'A curtailed task for quantitative evaluation of visuomotor adaptation in the head-mounted display virtual reality environment',
+            technologies: ['Visuomotor adaptation', 'VR', 'cerebellar ataxia'],
+            description: "Overall, we would examine the feasibility of creating a visuomotor adaptation task in the HMD-VR environment and investigate if it is applicable to diagnosis of cerebellar ataxia and rehabilitation for visuomotor adaptation.",
+            categories: ['Published papers']
         },
         {
             image: 'assets/images/mpw.jpg',
