@@ -3,11 +3,6 @@
 - Affiliation : Dongguk University in korea
 - Job position : Researcher Occupational therapist
 
-- [Research Field](#research-field)
-- [Education](#education)
-- [Major research achievements](#major-research-achievements)
-- [Research project](#research-project)
-
 ### Research Field
 - A lot of interest in combining occupational therapy and artificial intelligence technology.
 - Conducting clinical experience and research with an interest in all areas of pediatric occupational therapy, psychosocial occupational therapy, and elderly occupational therapy.
