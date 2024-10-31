@@ -14,6 +14,7 @@ let render_projects = (slug) => {
             image: 'assets/images/Korean.jpg',
             link: 'http://cogsociety.org/journal/thesis.asp',
             title: 'Effects of Remote Hand Coordination Training Intervention for Children with Developmental Disabilities: Single Case Study',
+            demo: 'http://cogsociety.org/journal/thesis.asp',
             technologies: ['Hand coordination', 'Rehabilitation for motor development', 'Telehealth'],
             description: "This study aimed to find out the effect of remote intervention using a hand function training application on the hand coordination skills of children with developmental disabilities. ",
             categories: ['Published papers']
