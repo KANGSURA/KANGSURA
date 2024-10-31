@@ -3,10 +3,10 @@
 - Affiliation : Dongguk University in korea
 - Job position : Researcher Occupational therapist
 
-- [Research Field](#Research Field)
-- [Education](#Education)
-- [Major research achievements](#Major research achievements)
-- [Research project](#Research project)
+- [Research Field](#research-field)
+- [Education](#education)
+- [Major research achievements](#major-research-achievements)
+- [Research project](#research-project)
 
 ### Research Field
 - A lot of interest in combining occupational therapy and artificial intelligence technology.
@@ -32,4 +32,4 @@
 11. [**Sura Kang**], [Developing a deep learning model for automated scoring of digital base TVMS-R(Test of Visual-Motor Skills-Revised], [*Master’s Thesis by Dongguk University*], [2024]
     
 ### Research project
-- 
+-
