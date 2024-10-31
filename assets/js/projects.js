@@ -7,7 +7,7 @@ let render_projects = (slug) => {
     let projects_area = $('.projects-wrapper');
 
     $('.white-button').removeClass('white-button-hover');
-    $(#${slug}).addClass('white-button-hover');
+    $(`#${slug}`).addClass('white-button-hover');
 
     let projects_obj = [
         {
