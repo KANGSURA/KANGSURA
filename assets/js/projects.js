@@ -1,5 +1,5 @@
 $(document).ready(() => {
-    render_projects('featured');
+    render_projects('All');
 })
 
 
@@ -130,7 +130,6 @@ let project_mapper = project => {
                     <article class="card__article">
                         <h2><a href="${project.link}">${project.title}</a></h2>
         
-                        <p class="paragraph-text-normal">${project.description}</p>
                     </article>
 
                                 
