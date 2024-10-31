@@ -67,7 +67,7 @@ let render_projects = (slug) => {
             categories: ['Published papers']
         },
         {
-            image: 'assets/images/The_Korean_Society_of_Occupational_Therapy.png',
+            image: 'assets/images/KOT.png',
             link: 'https://scholar.kyobobook.co.kr/article/external/detail/38424/4050067650373',
             title: 'Item-Level Psychometrics of the Cognitive Impairment Screening Test(CIST)',
             technologies: ['Assessment tool', 'Cognitive assessment', 'Validity'],
