@@ -58,7 +58,6 @@ function blog_posts() {
         post_html.push(post_template);
     }
 
-    post_html.push(post_template);
 
     $('#rss-feeds').html(post_html);
 
