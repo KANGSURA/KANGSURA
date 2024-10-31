@@ -1,5 +1,5 @@
 $(document).ready(() => {
-    render_projects('All');
+    render_projects('all');
 })
 
 
