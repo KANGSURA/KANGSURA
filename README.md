@@ -28,3 +28,12 @@
     
 ### Research project
 -
+
+### Notion
+- https://bloom-mile-c8f.notion.site/KANG-SURA-1c399b206af44389a7ab92a769512899
+
+### Instagram
+- https://www.instagram.com/ot__sura/profilecard
+
+### E-Mail
+- surakang7410@gmail.com
